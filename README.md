@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Engineer..&hearts;++;Love+to+learn+new+stuffs..,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=38F787&center=true&vCenter=true&multiline=true&random=false&width=435&height=200&lines=Computer+Science+Engineer;Love+to+learn+new+stuffs;Data+Analyst;Resuming+my+career+in+IT" alt="Typing SVG" /></a>
 </p>
-
+<ul class="icons">
+								<li><a href="https://jchpabon.github.io/website/" class="icon solid alt fa-globe"><span class="label">Website</span></a></li>
+								<li><a href="https://github.com/jchpabon?tab=repositories" class="icon brands alt fa-github"><span class="label">GitHub Repositories</span></a></li>
+								<li><a href="https://www.linkedin.com/in/julio-hernandez-data" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
